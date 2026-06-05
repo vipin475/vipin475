@@ -28,7 +28,6 @@ AI Engineer with **3+ years** building scalable, production-grade Generative AI 
 
 ### 🛠 Tech Stack
 
-<div align="center">
 
 **Languages**
 
@@ -80,7 +79,6 @@ AI Engineer with **3+ years** building scalable, production-grade Generative AI 
 ![NumPy](https://img.shields.io/badge/NumPy-E1F5EE?style=flat-square&logo=numpy&logoColor=085041)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-E1F5EE?style=flat-square&logoColor=085041)
 
-</div>
 
 ---
 

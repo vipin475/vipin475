@@ -28,57 +28,82 @@ AI Engineer with **3+ years** building scalable, production-grade Generative AI 
 
 ### 🛠 Tech Stack
 
+<div align="center">
 
 **Languages**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash" />
 
-**AI / ML & LLM**
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-EEEDFE?style=flat-square&logo=chainlink&logoColor=3C3489)
-![LangGraph](https://img.shields.io/badge/LangGraph-EEEDFE?style=flat-square&logo=graphql&logoColor=3C3489)
-![LangSmith](https://img.shields.io/badge/LangSmith-EEEDFE?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=3C3489)
-![OpenAI GPT-4/5](https://img.shields.io/badge/GPT--4%2F5-EEEDFE?style=flat-square&logo=openai&logoColor=3C3489)
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+
+<br/><br/>
+
+**LLM & Agents**
+<br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-EEEDFE?style=flat-square&logo=langchain&logoColor=3C3489)
+![LangGraph](https://img.shields.io/badge/LangGraph-EEEDFE?style=flat-square&logo=langchain&logoColor=3C3489)
+![LangSmith](https://img.shields.io/badge/LangSmith-EEEDFE?style=flat-square&logo=langchain&logoColor=3C3489)
+![OpenAI](https://img.shields.io/badge/GPT--4%2F5-EEEDFE?style=flat-square&logo=openai&logoColor=3C3489)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-EEEDFE?style=flat-square&logo=huggingface&logoColor=3C3489)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-EEEDFE?style=flat-square&logoColor=3C3489)
-![RAG](https://img.shields.io/badge/Agentic%20RAG-EEEDFE?style=flat-square&logoColor=3C3489)
+![Agentic RAG](https://img.shields.io/badge/Agentic%20RAG-EEEDFE?style=flat-square&logo=searxng&logoColor=3C3489)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-EEEDFE?style=flat-square&logo=openai&logoColor=3C3489)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-EEEDFE?style=flat-square&logo=databricks&logoColor=3C3489)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-EEEDFE?style=flat-square&logo=elasticsearch&logoColor=3C3489)
+
+<br/>
 
 **Backend & Databases**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,redis,mongodb" />
-&nbsp;
+
+<br/>
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-E1F5EE?style=flat-square&logoColor=085041)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E1F5EE?style=flat-square&logo=pydantic&logoColor=085041)
 ![Okta](https://img.shields.io/badge/Okta-E1F5EE?style=flat-square&logo=okta&logoColor=085041)
 
-**Cloud — Microsoft Azure**
+<br/>
 
+**Cloud — Microsoft Azure**
+<br/>
 <img src="https://skillicons.dev/icons?i=azure" />
-&nbsp;
-![Azure AI Search](https://img.shields.io/badge/Azure%20AI%20Search-E6F1FB?style=flat-square&logo=microsoftazure&logoColor=0C447C)
-![Azure App Services](https://img.shields.io/badge/App%20Services-E6F1FB?style=flat-square&logo=microsoftazure&logoColor=0C447C)
-![Azure AI Studio](https://img.shields.io/badge/AI%20Studio-E6F1FB?style=flat-square&logo=microsoftazure&logoColor=0C447C)
+
+<br/>
+
+![AI Search](https://img.shields.io/badge/AI%20Search-E6F1FB?style=flat-square&logo=microsoftazure&logoColor=0C447C)
+![App Services](https://img.shields.io/badge/App%20Services-E6F1FB?style=flat-square&logo=microsoftazure&logoColor=0C447C)
+![AI Studio](https://img.shields.io/badge/AI%20Studio%2FFoundry-E6F1FB?style=flat-square&logo=microsoftazure&logoColor=0C447C)
 ![Azure ML](https://img.shields.io/badge/Azure%20ML-E6F1FB?style=flat-square&logo=microsoftazure&logoColor=0C447C)
-![Azure Blob](https://img.shields.io/badge/Blob%20Storage-E6F1FB?style=flat-square&logo=microsoftazure&logoColor=0C447C)
+![Blob Storage](https://img.shields.io/badge/Blob%20Storage-E6F1FB?style=flat-square&logo=microsoftazure&logoColor=0C447C)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-E6F1FB?style=flat-square&logo=azuredevops&logoColor=0C447C)
 ![M365 Copilot](https://img.shields.io/badge/M365%20Copilot-E6F1FB?style=flat-square&logo=microsoft&logoColor=0C447C)
 
+<br/>
+
 **DevOps & Tools**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
-&nbsp;
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-FAEEDA?style=flat-square&logo=azuredevops&logoColor=633806)
-![Agile](https://img.shields.io/badge/Agile-FAEEDA?style=flat-square&logoColor=633806)
 
-**Data & Visualization**
+<br/><br/>
 
+**Data & Notebooks**
+<br/>
 <img src="https://skillicons.dev/icons?i=jupyter,streamlit" />
-&nbsp;
+
+<br/>
+
 ![Pandas](https://img.shields.io/badge/Pandas-E1F5EE?style=flat-square&logo=pandas&logoColor=085041)
 ![NumPy](https://img.shields.io/badge/NumPy-E1F5EE?style=flat-square&logo=numpy&logoColor=085041)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E1F5EE?style=flat-square&logoColor=085041)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-E1F5EE?style=flat-square&logo=plotly&logoColor=085041)
+![Seaborn](https://img.shields.io/badge/Seaborn-E1F5EE?style=flat-square&logo=python&logoColor=085041)
+![Pydantic](https://img.shields.io/badge/Pydantic-E1F5EE?style=flat-square&logo=pydantic&logoColor=085041)
+![Okta](https://img.shields.io/badge/Okta-E1F5EE?style=flat-square&logo=okta&logoColor=085041)
 
+</div>
 
 ---
 

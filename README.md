@@ -18,10 +18,10 @@
 
 ### 👋 About Me
 
-AI Engineer with **3+ years** building scalable, production-grade Generative AI systems. I specialize in Agentic RAG, multi-agent orchestration, and enterprise LLM pipelines — the kind that automate real decisions, not just demos.
+AI Engineer with **3+ years** building scalable, production-grade Generative AI systems. I specialize in Agentic RAG, multi-agent orchestration, and enterprise LLM pipelines, the kind that automate real decisions, not just demos.
 
 - 📜 &nbsp;**Microsoft Certified:** Azure AI Engineer Associate · Azure Fundamentals
-- 🔬 &nbsp;**2 Research Publications** — Springer Nature & Journal of Innovations in Business
+- 🔬 &nbsp;**2 Research Publications:** Springer Nature & Journal of Innovations in Business
 
 ---
 
@@ -66,7 +66,7 @@ AI Engineer with **3+ years** building scalable, production-grade Generative AI 
 
 <br/>
 
-**Cloud — Microsoft Azure**
+**Cloud: Microsoft Azure**
 <br/>
 <img src="https://skillicons.dev/icons?i=azure" />
 
@@ -132,7 +132,7 @@ LangChain-based exploration of RAG, prompt engineering, and LLM application patt
 
 **📊 [ML Algorithms](https://github.com/vipin475/Machine_Learning_Algorithms)**
 
-Core ML algorithms implemented from scratch — regression, classification, clustering, and more
+Core ML algorithms implemented from scratch: regression, classification, clustering, and more
 
 <img src="https://skillicons.dev/icons?i=python,jupyter" height="20"/>
 
@@ -141,7 +141,7 @@ Core ML algorithms implemented from scratch — regression, classification, clus
 
 **💬 [Hellozuz ChatApp](https://github.com/vipin475/Hellozuz-ChatApp)**
 
-Real-time chat application with a clean UI
+Real-time chat application with a clean UI and live messaging
 
 <img src="https://skillicons.dev/icons?i=js,nodejs" height="20"/>
 
@@ -162,9 +162,9 @@ Real-time chat application with a clean UI
 
 ### 📝 Publications
 
-- 📄 **Blockchain-Enabled DAOs for Sustainable Supply Chain Management** — _Journal of Innovations in Business and Industry_, Apr 2024
-- 🧠 **Alzheimer's Disease Diagnosis using ML & Deep Learning** — _Springer Nature, ICCCT 2024_, Jan 2024
-- 🔧 **IoT-Based System for Waste Management Automation** — _S.A. Patent 2023/03128_, Jun 2023
+- 📄 **Blockchain-Enabled DAOs for Sustainable Supply Chain Management** - _Journal of Innovations in Business and Industry_, Apr 2024
+- 🧠 **Alzheimer's Disease Diagnosis using ML & Deep Learning** - _Springer Nature, ICCCT 2024_, Jan 2024
+- 🔧 **IoT-Based System for Waste Management Automation** - _S.A. Patent 2023/03128_, Jun 2023
 
 ---
 
@@ -182,7 +182,7 @@ Real-time chat application with a clean UI
 
 <div align="center">
 
-_"Build AI that works — not just impresses."_
+_"Build AI that works - not just impresses."_
 
 </div>
 

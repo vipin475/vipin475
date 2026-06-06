@@ -33,13 +33,13 @@ AI Engineer with **3+ years** building scalable, production-grade Generative AI 
 <br/>
 <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash" />
 
-<br/><br/>
+<br/>
 
 **AI / ML**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
 
-<br/><br/>
+<br/>
 
 **LLM & Agents**
 <br/>
@@ -67,7 +67,6 @@ AI Engineer with **3+ years** building scalable, production-grade Generative AI 
 <br/>
 
 **Cloud — Microsoft Azure**
-<br/>
 <img src="https://skillicons.dev/icons?i=azure" />
 
 <br/>
@@ -86,11 +85,10 @@ AI Engineer with **3+ years** building scalable, production-grade Generative AI 
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
 
-<br/><br/>
+<br/>
 
 **Data & Notebooks**
 <br/>
-<img src="https://skillicons.dev/icons?i=jupyter,streamlit" />
 
 ![Pandas](https://img.shields.io/badge/Pandas-E1F5EE?style=flat-square&logo=pandas&logoColor=085041)
 ![NumPy](https://img.shields.io/badge/NumPy-E1F5EE?style=flat-square&logo=numpy&logoColor=085041)

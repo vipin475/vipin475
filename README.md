@@ -59,10 +59,11 @@ AI Engineer with **3+ years** building scalable, production-grade Generative AI 
 **Backend & Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,redis,mongodb" />
+<br/>
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-E1F5EE?style=flat-square&logoColor=085041)
+![Pydantic](https://img.shields.io/badge/Pydantic-E1F5EE?style=flat-square&logo=pydantic&logoColor=085041)
 
 <br/>
-![Pydantic](https://img.shields.io/badge/Pydantic-E1F5EE?style=flat-square&logo=pydantic&logoColor=085041)
 ![Okta](https://img.shields.io/badge/Okta-E1F5EE?style=flat-square&logo=okta&logoColor=085041)
 
 <br/>

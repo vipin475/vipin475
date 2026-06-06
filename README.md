@@ -179,17 +179,11 @@ Real-time chat application with a clean UI
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vipin475&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=7F77DD&icon_color=1D9E75&text_color=444441&hide=prs&rank_icon=github" height="155"/>
-&nbsp;
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vipin475&hide_border=true&background=FAFAFA&ring=7F77DD&fire=D85A30&currStreakLabel=7F77DD&sideLabels=444441&dates=888780&currStreakNum=3C3489&sideNums=3C3489" height="155"/>
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipin475&layout=compact&hide_border=true&bg_color=FAFAFA&title_color=7F77DD&text_color=444441&langs_count=6" height="130"/>
-
-</div>
 
 ---
 

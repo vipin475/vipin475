@@ -20,9 +20,8 @@
 
 AI Engineer with **3+ years** building scalable, production-grade Generative AI systems. I specialize in Agentic RAG, multi-agent orchestration, and enterprise LLM pipelines — the kind that automate real decisions, not just demos.
 
-- 🏢 &nbsp;**Currently:** AI Engineer @ Emerson, Pune
-- 🔬 &nbsp;**2 Research Publications** — Springer Nature & Journal of Innovations in Business
 - 📜 &nbsp;**Microsoft Certified:** Azure AI Engineer Associate · Azure Fundamentals
+- 🔬 &nbsp;**2 Research Publications** — Springer Nature & Journal of Innovations in Business
 
 ---
 
@@ -60,9 +59,9 @@ AI Engineer with **3+ years** building scalable, production-grade Generative AI 
 **Backend & Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,redis,mongodb" />
+![ChromaDB](https://img.shields.io/badge/ChromaDB-E1F5EE?style=flat-square&logoColor=085041)
 
 <br/>
-![ChromaDB](https://img.shields.io/badge/ChromaDB-E1F5EE?style=flat-square&logoColor=085041)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E1F5EE?style=flat-square&logo=pydantic&logoColor=085041)
 ![Okta](https://img.shields.io/badge/Okta-E1F5EE?style=flat-square&logo=okta&logoColor=085041)
 
@@ -93,8 +92,6 @@ AI Engineer with **3+ years** building scalable, production-grade Generative AI 
 **Data & Notebooks**
 <br/>
 <img src="https://skillicons.dev/icons?i=jupyter,streamlit" />
-
-<br/>
 
 ![Pandas](https://img.shields.io/badge/Pandas-E1F5EE?style=flat-square&logo=pandas&logoColor=085041)
 ![NumPy](https://img.shields.io/badge/NumPy-E1F5EE?style=flat-square&logo=numpy&logoColor=085041)

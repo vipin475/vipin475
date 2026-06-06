@@ -67,9 +67,8 @@ AI Engineer with **3+ years** building scalable, production-grade Generative AI 
 <br/>
 
 **Cloud — Microsoft Azure**
-<img src="https://skillicons.dev/icons?i=azure" />
-
 <br/>
+<img src="https://skillicons.dev/icons?i=azure" />
 
 ![AI Search](https://img.shields.io/badge/AI%20Search-E6F1FB?style=flat-square&logo=microsoftazure&logoColor=0C447C)
 ![App Services](https://img.shields.io/badge/App%20Services-E6F1FB?style=flat-square&logo=microsoftazure&logoColor=0C447C)
